@@ -24,7 +24,19 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = ""  
+  description = ""
+  
+[[feature]]
+  icon = "file-excel"
+  icon_pack = "fas"
+  name = "Excel VBA"
+  description = ""
+  
+[[feature]]
+  icon = "file-excel"
+  icon_pack = "fas"
+  name = "HTA"
+  description = ""
   
 # Uncomment to use emoji icons.
 # [[feature]]

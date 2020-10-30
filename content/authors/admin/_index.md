@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hellow reader. Thanks for stopping by. I know this part is a bit of a schlep, but don't worry - I won't be long. I guess I like to think of myself as a bit of a flâneur, though my real shtick is health economics (mostly on the HEOR side of things).
+bio: I guess I like to think of myself as a bit of a flâneur, though my real shtick is health economics.
 
 interests:
 - HEOR
@@ -71,6 +71,6 @@ highlight_name: false
 # - Visitors
 ---
 
-Joshua Soboil is a young Health Economist currently residing in Cape Town. His interests include decision-modelling and philosophy, while occasionally sneaking out for long walks in the mountains.
-
 "Look for a clearing in the forest, young man. Not a hidden city."
+
+Though he likes to think of himself as a flâneur, Joshua Soboil is a young Health Economist currently residing in Cape Town. His interests include decision-modelling and philosophy, although he occasionally sneaks out for long walks in the mountains.

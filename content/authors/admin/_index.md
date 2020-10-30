@@ -77,4 +77,4 @@ highlight_name: false
 
 "Look for a clearing in the forest, young man. Not a hidden city."
 
-A flâneur, Joshua Soboil's main shtick is Health Economics. He currently resides in Cape Town. His particular interests include decision-modelling, probability, and philosophy; he occasionally sneaks out for long walks in the mountains.
+I guess I like to think of myself as a bit of a flâneur, though my real shtick is health economics.

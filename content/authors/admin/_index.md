@@ -77,4 +77,4 @@ highlight_name: false
 
 "Look for a clearing in the forest, young man. Not a hidden city."
 
-Though he likes to think of himself as a flâneur, Joshua Soboil is a young Health Economist currently residing in Cape Town. His interests include decision-modelling and philosophy, although he occasionally sneaks out for long walks in the mountains.
+Though he likes to think of himself as largely a flâneur, Joshua Soboil's main shtick is Health Economics. He currently resides in Cape Town, though he intends to leave for London in the next two years. His interests include decision-modelling and philosophy, and he occasionally sneaks out for long walks in the mountains.

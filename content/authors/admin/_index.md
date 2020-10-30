@@ -71,6 +71,6 @@ highlight_name: false
 # - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Joshua Soboil is a young Health Economist currently residing in Cape Town. His interests include decision-modelling and philosophy, while occasionally sneaking out for long walks in the mountains.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+"Look for a clearing in the forest, young man. Not a hidden city."

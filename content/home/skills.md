@@ -32,12 +32,6 @@ subtitle = ""
   name = "Excel VBA"
   description = ""
   
-[[feature]]
-  icon = "file-excel"
-  icon_pack = "fas"
-  name = "HTA"
-  description = ""
-  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"

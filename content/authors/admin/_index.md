@@ -14,14 +14,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I guess I like to think of myself as a bit of a flâneur, though my real shtick is health economics.
+bio: I guess I like to think of myself as a bit of a flâneur, though my real shtick is health economics. 
 
 interests:
 - HEOR
-- Statistical programming
-- Decision-modelling
 - Probability
 - Bayesian Inference
+- Statistical programming
+- Decision-modelling
 
 # education:
 #   courses:
@@ -75,6 +75,7 @@ highlight_name: false
 # - Visitors
 ---
 
-"Look for a clearing in the forest, young man. Not a hidden city."
+I guess I like to think of myself as a bit of a flâneur, though my real shtick is health economics. 
 
-I guess I like to think of myself as a bit of a flâneur, though my real shtick is health economics.
+“Don’t cross a river if it is four feet deep on average.”
+  - NN Taleb

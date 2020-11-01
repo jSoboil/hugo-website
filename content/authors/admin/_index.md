@@ -6,7 +6,7 @@ title: Joshua Soboil
 superuser: true
 
 # Role/position
-role: Health Economist | R Programmer | Decision science
+role: Health Economist
 
 # Organizations/Affiliations
 organizations:
@@ -19,9 +19,10 @@ bio: I guess I like to think of myself as a bit of a flâneur, though my real sh
 interests:
 - HEOR
 - Probability
+- Decision science
 - Bayesian Inference
-- Statistical programming
-- Decision-modelling
+- Statistical Programming
+
 
 # education:
 #   courses:

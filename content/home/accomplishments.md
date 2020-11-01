@@ -20,11 +20,11 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization_url = ""
+  title = "Essential of Global Health"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/MC7C4Z86KB8F"
+  date_start = "2020"
   date_end = ""
   description = ""
 

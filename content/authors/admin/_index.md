@@ -77,4 +77,4 @@ highlight_name: false
 
 I guess I like to think of myself as a bit of a flâneur, though my real shtick is health economics. 
 
-“Don’t cross a river if it is four feet deep on average.” - NN Taleb
+*"Look for a clearing in the forest, young man. Not a hidden city" - Anonymous*

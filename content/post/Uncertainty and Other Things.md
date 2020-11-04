@@ -8,3 +8,5 @@ Anyway, I know dear reader that I promised a more technical post. This will have
 
 Sincerely
 J.S.
+
+Update: As Gelman says [here](https://statmodeling.stat.columbia.edu/2020/11/04/dont-kid-yourself-the-polls-messed-up-and-that-would-be-the-case-even-wed-forecasted-biden-losing-florida-and-only-barely-winning-the-electoral-college/)

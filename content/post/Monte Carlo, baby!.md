@@ -15,7 +15,7 @@ $$x_{i}\sim  U(0, 1)$$
 
 Then it is necessary to transform these samples into the inverse of the cdf (also known as a quantile function). I'm going to avoid going into exact mathematical details, as, to be real honest, it would be a shlep to write this out fully. I'll leave it for another time when I have more time on my hands! 
 
-Once the initial uniform samples have been transformed into the desired inverse cdf, this can then be used to inform the probability for a range of parameter values occurring. I'll some some code for you to try out on R on your own:
+Once the initial uniform samples have been transformed into the desired inverse cdf, this can then be used to inform the probability for a range of parameter values occurring. I'll leave you with some R code to try out on your own:
 
 ```r
 x <- runif(n = 20000)

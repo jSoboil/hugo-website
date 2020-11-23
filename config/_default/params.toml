@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 # Show related content at the bottom of pages?
-show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
+show_related = {docs = true, page = false, post = true, project = false, publication = false, talk = false}
 
 ############################
 ## Contact details
@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Cape Town", region = "Western Cape", postcode = "", country = "South Africa", country_code = "ZAR"}
+# address = {street = "", city = "Cape Town", region = "Western Cape", postcode = "", country = "South Africa", country_code = "ZAR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-33.928992", longitude = "18.417396"}
+# coordinates = {latitude = "-33.928992", longitude = "18.417396"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"

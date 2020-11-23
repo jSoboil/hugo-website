@@ -10,7 +10,7 @@ role: Health Economist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Cape Town
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

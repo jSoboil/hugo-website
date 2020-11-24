@@ -1,3 +1,6 @@
+---
+title: "Uncertainty and Other Stories"
+---
 Though one can't always be too sure, at the time of writing, it seems Biden has won the US election. Trumps betting price is sitting around ≈ -60% on [ftx](https://ftx.com/trade/TRUMP). Let's see what happens.
 
 If Biden is elected,I hope that he doesn't maintain the general status-quo that resulted in Trump's presidency and *actually* changes some things. The fact that it is so close shows how Trump speaks to a large part of the US population. Whether one agrees with them or not is besides the point.

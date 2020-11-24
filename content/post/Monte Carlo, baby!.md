@@ -3,17 +3,23 @@ title: "Monte Carlo, baby!"
 ---
 So, I am _finally_ gettin' round to providing some examples between Monte Carlo (MC) Probabilistic Sensitivity Analysis (PSA) and Markov Chain Monte Carlo (MCMC) PSA. I'm still finishing up the last section of my dissertation, but it's getting there and I'm really happy with it.
 
-Anyway, let's get back to the point. There are several ways to go about an MC PSA simulation, but I think a relatively straightforward approach, that is also described in most of the main health economics textbooks out there, is to use the inverse sampling method. The what? 
+Anyway, let's get back to more important things. There are several ways to go about an MC PSA simulation, but I think a relatively straightforward approach, that is also described in most of the main health economics textbooks out there, is to use the inverse sampling method. The what? Yeah, this isn't the name usually applied in the main health economic textbooks, sadly, You'll have to read some probability books. Honestly, Blitzstein and Hwang's [Introduction to Probability](https://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1138369918) has been a life-saver for me. I'd recommend checking it out for those interested.
 
-Well, personally, I find many health economic textbooks extremely vague in exact methodology, especially relating to simulation methods. I think, generally, it is intended to help the uninitiated with gaining an intuitive understanding of simulation based statistical methods - but I find this actually just muddles the waters. Yeah, that's just like my [opinion](https://www.youtube.com/watch?v=pWdd6_ZxX8c) though, man.
+Personally, I find many health economic textbooks extremely vague in exact methodology, especially regarding to simulation methods. I think it's likely intended to help the uninitiated in  gaining an intuitive understanding of simulation based statistical methods, but I find this has actually just muddled the water for me. Yeah, but that's also just like my [opinion](https://www.youtube.com/watch?v=pWdd6_ZxX8c) though, man.
 
-To get back to the point, howeve , the inverse sampling method basically takes the inverse of the cumulative density function in order to calculate the probability of a random variable falling within a particular range. Yes, yes, to the knowledgeable this does *not* apply for a probability mass function - if you have a discrete variable you can sample the probability of a random variable directly from the probability mass function. This is an important difference. 
+Back to the point - the inverse sampling method basically takes the inverse of the cumulative density function in order to calculate the probability of a random variable falling within a particular range. There is an important distinction between continuous and discrete variables in the way you go about this. Basically, in the discrete case because you can sample directly from the probability mass function (pmf), one has to specify the upper and lower bounds of th uniform distribution so that all of your indicator parameter values sum to one. For example for a discrete binary variable, you can just say, perhaps, something like
 
-However, for the continuous case, random samples must first be drawn from a uniform distribution, i.e.
+$$x_{0}\sim  U(0, 0.5)$$
+
+and
+
+$$x_{1}\sim  U(0.5, 1)$$
+
+However, this means that the distribution for a discrete random variables is not uniform as it can only take on a finite set of specific values. For the continuous case, random samples must also be drawn from a uniform distribution, though more generally bounded as
 
 $$x_{i}\sim  U(0, 1)$$
 
-Then it is necessary to transform these samples into the inverse of the cdf (also known as a quantile function). I'm going to avoid going into exact mathematical details, as, to be real honest, it would be a shlep to write this out fully. I'll leave it for another time when I have more time on my hands! 
+Then it is necessary to transform these samples into the inverse of the cdf (also known as a quantile function). I'm going to avoid going into exact mathematical details, as, to be real honest, it would be a schlep to write this out fully. I'll leave it for another time when I have more time on my hands! 
 
 Once the initial uniform samples have been transformed into the desired inverse cdf, this can then be used to inform the probability for a range of parameter values occurring. I'll leave you with some R code to try out on your own:
 

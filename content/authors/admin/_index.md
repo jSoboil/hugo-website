@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I guess I like to think of myself as a bit of a flâneur, though my real shtick is health economics. 
+bio: Health economist | Probability | Risk and Uncertainty
 
 interests:
 - HEOR
@@ -76,6 +76,6 @@ highlight_name: false
 # - Visitors
 ---
 
-I guess I like to think of myself as a bit of a flâneur, though my real shtick is health economics. 
+Health economist | Probability | Risk and Uncertainty
 
 *"Look for a clearing in the forest, young man. Not a hidden city"* - Anonymous
